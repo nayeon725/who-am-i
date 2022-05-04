@@ -3,8 +3,9 @@
 # 김나연 Nayeon Kim
 
 
+## 
 
-## Interest 👀
+## Interest
 - Reading books
 - Wathcing movie
-- listning music
+- Listning music
